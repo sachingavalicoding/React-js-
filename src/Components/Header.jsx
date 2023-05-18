@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function Header() {
   return (
-    <div className='header'>
-      This , is Header You know that 
-    </div>
+    <nav className='header'>
+      
+    </nav>
   )
 }
 
